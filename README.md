@@ -25,6 +25,7 @@ In order to reveal the screws, just like pull those straight out. Pull with enou
 ## Important notes
   - Do NOT print with PLA or PETG. Any of those materials will end up melting in the hot sun and cause all sorts of unfortunate events to happen with the device.
   - Don't get water on it. I haven't tested how waterproof it is, but I wouldn't reccomend trying. I'm working on a shell/cover that should be out soon-ish
+
 TLDR on the prototypes:
   - 1 - Mounted via duct tape. Works, but not well.
   - 2 - Mounted via tension. Never worked, never will.

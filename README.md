@@ -29,4 +29,5 @@ TLDR on the prototypes:
   - 1 - Mounted via duct tape. Works, but not well.
   - 2 - Mounted via tension. Never worked, never will.
   - 3 - Mounted via screws. Works perfectly, is the most up-to-date
+
 You probably want the third one.
